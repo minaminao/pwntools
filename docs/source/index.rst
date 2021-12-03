@@ -1,12 +1,16 @@
 pwntools
 ====================================
 
-``pwntools`` is a CTF framework and exploit development library.
-Written in Python, it is designed for rapid prototyping and development,
-and intended to make exploit writing as simple as possible.
+.. ``pwntools`` is a CTF framework and exploit development library.
+ Written in Python, it is designed for rapid prototyping and development,
+ and intended to make exploit writing as simple as possible.
 
-The primary location for this documentation is at docs.pwntools.com_, which uses
-readthedocs_. It comes in three primary flavors:
+``pwntools`` は、CTFフレームワークとエクスプロイト開発ライブラリです。Pythonで書かれており、ラピッドプロトタイピングと開発のために設計されており、エクスプロイトの作成を可能な限り簡単にすることを目的としています。
+
+.. The primary location for this documentation is at docs.pwntools.com_, which uses
+ readthedocs_. It comes in three primary flavors:
+
+このドキュメントの主な場所は docs.pwntools.com_ で、readthedocs_ を使用しています。これは3つの主要な種類があります。
 
 - Stable_
 - Beta_
@@ -96,8 +100,10 @@ Each of the ``pwntools`` modules is documented here.
 Bytes
 -----
 
-The bytes vs text distinction is so important that it even made it to this main page.
-See the pwntools-tutorial_ repo for the latest tutorial finally
-explaining the difference once and for all (hopefully).
+.. The bytes vs text distinction is so important that it even made it to this main page.
+ See the pwntools-tutorial_ repo for the latest tutorial finally
+ explaining the difference once and for all (hopefully).
+
+バイトとテキストの区別はとても重要なので、このメインページにも書かれています。最新のチュートリアルは pwntools-tutorial_ repoを参照してください。
 
 .. _pwntools-tutorial: https://github.com/Gallopsled/pwntools-tutorial/blob/master/bytes.md
